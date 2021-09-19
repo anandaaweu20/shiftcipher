@@ -1,6 +1,6 @@
 # Shift Cipher
 Program Shift Cipher Prak. Kriptografi 2021
 
-Screenshot Program
+**Screenshot Program**
 
 ![SS program](https://i.ibb.co/xDDLRpj/ss-program-shift-cipher.jpg)
