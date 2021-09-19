@@ -5,7 +5,7 @@ Nama  : Ananda Sapta Awedhana<br/>
 NPM   : 140810190063<br/>
 Kelas : A
 
-**Kekurangan**
+**Kekurangan**<br/>
 - Tidak bisa dekripsi huruf kecil
 
 **Screenshot Program**
