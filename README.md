@@ -1,8 +1,8 @@
 # Shift Cipher
 Program Shift Cipher Prak. Kriptografi 2021
 
-Nama  : Ananda Sapta Awedhana
-NPM   : 140810190063
+Nama  : Ananda Sapta Awedhana<br/>
+NPM   : 140810190063<br/>
 Kelas : A
 
 **Kekurangan**
